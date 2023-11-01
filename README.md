@@ -1,4 +1,4 @@
-# Customer Segmentation with DBSCAN and Spectral Clustering and Basket Analysis Integration
+# Customer Segmentation with K-means, DBSCAN and Spectral Clustering and Basket Analysis Integration
 Develop and evaluate clustering models to categorize the company's customers using a dataset referenced in the given source
 
 ## Algorithms
